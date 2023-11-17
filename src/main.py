@@ -5,7 +5,7 @@ if __name__ == "__main__":
     bot.load_data()
 
     old_input = None
-    bot.say("Wellcome to version 0.2, motherfuckers!!")
+    bot.say("Version 0.2")
     while True:
         user_input = input("You: ").strip().lower()
         
